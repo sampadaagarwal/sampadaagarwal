@@ -1,12 +1,14 @@
 ### <h2>नमस्ते (Namaste)🙏🏻, I'm Sampada!
   </br>
-
-<img align="left"  src="https://media.giphy.com/media/QvkZcmITuZ3RejQOtQ/giphy.gif" alt="Sampada Agarwal" width="600" height="150"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
 <img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
 </br></br></br>
-### Here are some ideas to get you started:</br>
-- 🔭 I’m currently more into the **Programming**
-- 🌱 I’m currently learning **Open Source Contribution.**
+I'm a computer science student with specialization in artificial intelligence who is passionate about writing code, solving problems, automating stuff, and building software.
+
+- 🔭 I’m currently a CSAI student at K.I.E.T group of institution.
+- 📚 I’m currently learning  backend web development .
+- 👯 I’m looking for a software development internship. 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sampada-agarwal-b54365224/) [Gmail](mailto:sampadaagarwal5@gmail.com)
+- 🌱-🔭 I’m currently more into the **Programming** and **open source**
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
 - 🤔 I’m looking for help with **again Open Source. This is really fun.**
 - 💬 Ask me about **Technology, Aviation, Psychology, Nature.**

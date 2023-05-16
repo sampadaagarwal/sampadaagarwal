@@ -5,7 +5,7 @@
 I'm a computer science student with specialization in artificial intelligence who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m currently a CSAI student at K.I.E.T group of institution.
-- 📚 I’m currently learning  backend web development .
+- 📚 I’m currently learning  Android development .
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sampada-agarwal-b54365224/) [Gmail](mailto:sampadaagarwal5@gmail.com)
 - 🌱-🔭 I’m currently more into the **Programming** and **open source**
@@ -26,11 +26,13 @@ npx sampada
 ![HTML](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![XML](https://img.shields.io/badge/-XML-000000?style=for-the-badge&logo=XML)
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=Flutter)
 ### Some of the technologies I have worked with-</br>
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 ![IntelliJ](http://img.shields.io/badge/-IntelliJ-000000?style=for-the-badge&logo=IntelliJlogoColor=blue)
+![Android Studio](http://img.shields.io/badge/-AndroidStudio-000000?style=for-the-badge&logo=AndroidStudiologoColor=blue)
 </br></br></br></br>
 
 
